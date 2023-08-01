@@ -1,0 +1,39 @@
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.tosel {
+  color : rgb(163, 47, 47);
+}
+.navbar {
+  width: 100%;
+  height: 50px;
+  background-color: rgb(236, 251, 255);
+  color: black;
+  padding: 10px;
+  font-size: 30px;
+}
+.navbar-menu {
+  margin-right: 20px;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+.VIEW {
+  /* background: black; */
+  height: 100%;
+  /* color: white; */
+  width: 90%;
+  margin: auto;
+}
